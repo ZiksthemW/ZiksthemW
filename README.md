@@ -1,7 +1,7 @@
 ### Hi there, I am [ZiksthemW][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ziksthemw.org)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fziksthemw&screen_name=ziksthemw)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="ZiksthemW Spotify Playing" width="350" />](https://open.spotify.com/user/qk0zqu9uvuvmtqu6i8hnpi9q1)
+[<img src="https://https://spotify-now-playing-sigma-one.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/qk0zqu9uvuvmtqu6i8hnpi9q1)
 
 ### Connect with me:
 
