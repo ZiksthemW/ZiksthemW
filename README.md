@@ -40,7 +40,7 @@
 <!--START_SECTION:activity-->
 1. ❌ Discord Server [Join US!][discord]
 2. 🗣 News Website [Read Hot News!][news]
-3. 💪 My #1 Project [Watch Anime](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+3. 💪 My #1 Project [Watch Anime][anime]
 4. 🎉 My #2 Project [Shorten Your Links!][linkshortener]
 <!--END_SECTION:activity-->
 
