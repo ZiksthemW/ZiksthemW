@@ -1,19 +1,14 @@
 ### Hi there, I am [ZiksthemW][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ziksthemw.org)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fziksthemw&screen_name=ziksthemw)
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=My%20Personal%20Website&style=for-the-badge&up_color=blue&up_message=Click%20Me%21&url=https%3A%2F%2Fziksthemw.org)](https://ziksthemw.org)
+[![Twitter Follow](https://img.shields.io/website?down_color=blue&down_message=ZiksthemW&label=Follow%20Me%20%40%20Twitter%21&logo=Twitter&style=for-the-badge&up_color=blue&up_message=ZiksthemW&url=https%3A%2F%2Ftwitter.com%2Fziksthemw)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fziksthemw&screen_name=ziksthemw)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## Hello! It's me, ZiksthemW! I'm a Exploiter, Teacher and a Freelancer.
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Spotify Playing 🎧
-
-[<img src="https://ziksspotify.ziksthemw.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/qk0zqu9uvuvmtqu6i8hnpi9q1)
+- 🔭 I just launched my first news website: [Tech News!][news]!
+- 🌱 I’m trying to learning everything 🤣
+- 👯 I'm a freelancer so mail me if you have job :)
+- 🥅 2021 Goals: Learning Perl & Ruby
 
 ### Connect with me:
 
@@ -39,7 +34,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest News
 
 <!-- BLOG-POST-LIST:START -->
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
@@ -57,11 +52,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
+1. ❌ Discord Server [Join US!][discord]
+2. 🗣 News Website [Read Hot News!][news]
+3. 💪 My #1 Project [Watch Anime](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+4. 🎉 My #2 Project [Shorten Your Links!][linkshortener]
 <!--END_SECTION:activity-->
 
 </details>
@@ -73,7 +67,11 @@
 
 </details>
 
+[news]: https://zvuln.org
 [website]: https://ziksthemw.org
 [twitter]: https://twitter.com/ziksthemw
 [youtube]: https://www.youtube.com/channel/UCkmt-SmhaFUIZhjG9_r01yw
 [instagram]: https://instagram.com/ziksthemw
+[discord]: https://discord.gg/p7NFTTY
+[anime]: https://animeturkce.net
+[linkshortener]: https://linkshortener-free.eu
