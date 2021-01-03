@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://spotify-now-playing-sigma-one.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/qk0zqu9uvuvmtqu6i8hnpi9q1)
+[<img src="https://spotify-now-playing-sigma-one.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/qk0zqu9uvuvmtqu6i8hnpi9q1)
 
 ### Connect with me:
 
