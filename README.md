@@ -6,7 +6,7 @@
 ## Hello! It's me, ZiksthemW! I'm a Exploiter, Teacher and a Freelancer.
 
 - 🔭 I just launched my first news website: [Tech News!][news]!
-- 🌱 I’m trying to learning everything 🤣
+- 🌱 I’m trying to learn everything 🤣
 - 👯 I'm a freelancer so mail me if you have job :)
 - 🥅 2021 Goals: Learning Perl & Ruby
 
