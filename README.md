@@ -1,6 +1,6 @@
 <div align="center">
 
-```cs
+```python
 import ZiksthemW from ComputerScience
 ```
 
