@@ -1,7 +1,7 @@
 <div align="center">
 
 ```python
-import ZiksthemW from ComputerScience
+import ZiksthemW from Nasa
 ```
 
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=My%20Personal%20Website&style=for-the-badge&up_color=blue&up_message=Click%20Me%21&url=https%3A%2F%2Fziksthemw.org)](https://ziksthemw.org)
