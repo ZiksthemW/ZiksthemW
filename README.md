@@ -1,7 +1,7 @@
 <div align="center">
 
 ```python
-import ZiksthemW from Computer_Science
+from Computer_Science import ZiksthemW
 ```
 
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=My%20Personal%20Website&style=for-the-badge&up_color=blue&up_message=Click%20Me%21&url=https%3A%2F%2Fziksthemw.org)](https://ziksthemw.org)
@@ -14,7 +14,7 @@ import ZiksthemW from Computer_Science
 - 🔭 I just launched my first [Tech News Website][news]!
 - 🌱 I’m trying to learn everything 🤣
 - 👯 I'm a freelancer so mail me if you have job :)
-- 🥅 2021 Goals: Learning Perl & Ruby
+- 🥅 2023 Goals: Releasing a successfull software.
 
 ### Connect with me:
 
