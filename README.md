@@ -9,6 +9,8 @@ from Computer_Science import ZiksthemW
 
 ![IMG](https://github.com/ZiksthemW/ZiksthemW/blob/main/.github/workflows/New%20Project.png?raw=true)
 
+[Twitter.]([twitter]) - [Instagram.]([instagram]) - [Discord.]([discord])
+  
 [news]: https://zvuln.org
 [website]: https://ziksthemw.org
 [twitter]: https://twitter.com/ziksthemw
